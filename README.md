@@ -283,6 +283,6 @@ Step 8. Configure Help Topics
 <br />
 
 
-For the the next tutorial in this series go <a href=https://github.com/presicion25/osTicket-Ticket-Lifecycle-Examples>here</a></h2>
+For the the next tutorial in this series go <a href=https://github.com/RonaldEJackson/Ticket-Lifecycle>here</a></h2>
 <br />
 Thank Your for reading!
